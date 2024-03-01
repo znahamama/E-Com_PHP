@@ -16,4 +16,5 @@ Database Management: Utilizes MySQL to store and retrieve data related to books,
 User Authentication and Authorization: Validates user credentials during login and ensures authorized access to specific features.
 Order Processing: Manages the entire order lifecycle, from cart submission to payment processing and order fulfillment.
 API Integration: Potentially integrates with third-party APIs for functionalities like payment processing and book availability checks.
+
 This E-Commerce website provides a seamless and secure online shopping experience for book enthusiasts, with a well-designed front-end and a robust back-end ensuring efficient business processes. The use of PHP allows for scalability, ease of maintenance, and integration with other web technologies.
