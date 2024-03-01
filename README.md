@@ -1,5 +1,5 @@
 Front-end:
-The front-end of the E-Commerce website is developed using PHP, HTML, CSS, and JavaScript. It provides an intuitive and user-friendly interface for customers to browse, search, and purchase books online. The front-end design includes responsive web pages to ensure a seamless experience across various devices.
+The front-end of the E-Commerce website is developed using PHP, HTML, CSS, and JavaScript. It provides an intuitive and user-friendly interface for customers to browse, search, and purchase clothes online. The front-end design includes responsive web pages to ensure a seamless experience across various devices.
 
 Key features:
 
@@ -12,9 +12,9 @@ The back-end of the E-Commerce website is powered by PHP and interacts with a My
 
 Key features of the back-end include:
 
-Database Management: Utilizes MySQL to store and retrieve data related to books, customers, orders, and authentication.
+Database Management: Utilizes MySQL to store and retrieve data related to clothes, customers, orders, and authentication.
 User Authentication and Authorization: Validates user credentials during login and ensures authorized access to specific features.
 Order Processing: Manages the entire order lifecycle, from cart submission to payment processing and order fulfillment.
-API Integration: Potentially integrates with third-party APIs for functionalities like payment processing and book availability checks.
+API Integration: Potentially integrates with third-party APIs for functionalities like payment processing and clothe availability checks.
 
-This E-Commerce website provides a seamless and secure online shopping experience for book enthusiasts, with a well-designed front-end and a robust back-end ensuring efficient business processes. The use of PHP allows for scalability, ease of maintenance, and integration with other web technologies.
+This E-Commerce website provides a seamless and secure online shopping experience for clothe enthusiasts, with a well-designed front-end and a robust back-end ensuring efficient business processes. The use of PHP allows for scalability, ease of maintenance, and integration with other web technologies.
